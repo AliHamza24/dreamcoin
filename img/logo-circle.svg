@@ -1,0 +1,8 @@
+<svg id="logo-circle" xmlns="http://www.w3.org/2000/svg" width="30" height="30" viewBox="0 0 30 30">
+  <circle id="Oval" cx="15" cy="15" r="15" fill="#fff"/>
+  <g id="Group_Copy" data-name="Group Copy" transform="translate(6 6)">
+    <path id="Fill_4" data-name="Fill 4" d="M19,5.471H16.3v-.94L10.852,2.9V18.315L9.5,19l-1.351-.685V2.9L2.7,4.532v.94H0v-2.3L9.5,0,19,3.167Z" fill="#092057"/>
+    <path id="Combined_Shape" data-name="Combined Shape" d="M5.808,10.611,4.5,8.309h7.128l.992-1.732h-1.1l0,0H3.5L0,0H18.968L17.645,2.3H3.8L4.826,4.277h5.861l0,0h5.973L13.01,10.611Z" transform="translate(0 6.625)" fill="#1c7dfc"/>
+    <rect id="Rectangle_Copy_5" data-name="Rectangle Copy 5" width="2.707" height="3.918" transform="translate(8.146 9.991)" fill="#092057"/>
+  </g>
+</svg>
