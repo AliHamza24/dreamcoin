@@ -11,11 +11,11 @@ async function getSupplyData() {
 }
 
 async function calculatePriceSupplyAndDisplay() {
-  const priceData = await getPriceData()
+  const priceData = 0.01
   let price = parseFloat(priceData.priceUSD).toFixed(14)
 
-  const totalSupply = 1000000000000000
-  const supplyData = await getSupplyData()
+  const totalSupply = 1000000000000
+  const supplyData = 1000000000
   const burnedSupply = supplyData.result.slice(0, 15)
   const supply = totalSupply - burnedSupply 
   displayStatsData(price, supply)
